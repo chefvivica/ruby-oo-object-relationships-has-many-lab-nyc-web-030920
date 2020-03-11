@@ -5,7 +5,7 @@ class Artist
   end 
   
   def songs
-    @name.Artist.new 
+    Artist.new = @name
    
   end 
   
