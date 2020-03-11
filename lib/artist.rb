@@ -4,7 +4,8 @@ class Artist
     @name = name
   end 
   
-  def songs(songs, name)
+  def songs
+    @name.Artist.new 
    
   end 
   
