@@ -11,7 +11,7 @@ class Artist
   end
     
   def songs 
-    Song.all.select {|songs|.artist == slef}
+    Song.all.select {|song|.artist == slef}
     end 
   end 
   
